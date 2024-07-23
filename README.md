@@ -1,4 +1,4 @@
-# myapp
+# Flutter 2D game demo
 
 A new Flutter project.
 
